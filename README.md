@@ -1,5 +1,3 @@
-Claro! Aqui está uma sugestão de README.md para o seu projeto no GitHub, com base no arquivo index.html fornecido. Este README foi criado para ser informativo e acolhedor para visitantes e potenciais colaboradores.
-
 Hub de Aplicativos Educacionais
 Bem-vindo ao Hub de Aplicativos Educacionais! Esta é uma plataforma centralizada que reúne diversas ferramentas e aplicativos educacionais inovadores, projetados para auxiliar alunos e professores. O hub oferece uma interface simples e intuitiva para descobrir e acessar recursos para diferentes áreas do conhecimento, como Literatura, História, Gestão Escolar e Criatividade.
 
